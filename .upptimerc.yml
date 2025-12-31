@@ -5,6 +5,8 @@ repo: status
 sites:
   - name: RBLTracker Website
     url: https://rbltracker.com
+  - name: RBLTracker API
+    url: https://api.rbltracker.com/3.0/ping
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
