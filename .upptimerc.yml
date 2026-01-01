@@ -10,7 +10,7 @@ sites:
 status-website:
   cname: status.generatorlabs.com
   logoUrl: https://status.generatorlabs.com/rbl-logo.svg
-  name: RBLTracker System Status
+  name: RBLTracker System Status a
   themeUrl: https://status.generatorlabs.com/custom-theme.css
   favicon: https://status.generatorlabs.com/favicon.ico
   faviconSvg: https://status.generatorlabs.com/favicon.svg
