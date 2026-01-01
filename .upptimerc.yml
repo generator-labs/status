@@ -4,13 +4,15 @@ repo: status
 sites:
   - name: RBLTracker Website
     url: https://rbltracker.com
+    icon: https://status.generatorlabs.com/favicon.ico
   - name: RBLTracker API
     url: https://api.rbltracker.com/3.0/ping
+    icon: https://status.generatorlabs.com/favicon.ico
 
 status-website:
   cname: status.generatorlabs.com
   logoUrl: https://status.generatorlabs.com/rbl-logo.svg
-  name: RBLTracker System Status a
+  name: RBLTracker System Status
   themeUrl: https://status.generatorlabs.com/custom-theme.css
   favicon: https://status.generatorlabs.com/favicon.ico
   faviconSvg: https://status.generatorlabs.com/favicon.svg
