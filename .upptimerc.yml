@@ -16,3 +16,6 @@ status-website:
   themeUrl: https://status.generatorlabs.com/custom-theme.css
   favicon: https://status.generatorlabs.com/favicon.ico
   faviconSvg: https://status.generatorlabs.com/favicon.svg
+
+i18n:
+  footer: 
