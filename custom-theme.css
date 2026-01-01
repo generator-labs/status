@@ -24,3 +24,7 @@
   --graph-opacity: 1;
   --graph-filter: none;
 }
+
+nav, header, footer {
+    display: none !important;
+}
