@@ -2,7 +2,7 @@
   {
     "name": "RBLTracker Website",
     "url": "https://rbltracker.com",
-    "icon": "https://icons.duckduckgo.com/ip3/rbltracker.com.ico",
+    "icon": "https://status.generatorlabs.com/favicon.ico",
     "slug": "rbl-tracker-website",
     "status": "up",
     "uptime": "100.00%",
@@ -20,7 +20,7 @@
   {
     "name": "RBLTracker API",
     "url": "https://api.rbltracker.com/3.0/ping",
-    "icon": "https://icons.duckduckgo.com/ip3/api.rbltracker.com.ico",
+    "icon": "https://status.generatorlabs.com/favicon.ico",
     "slug": "rbl-tracker-api",
     "status": "up",
     "uptime": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 174,
-    "timeWeek": 174,
-    "timeMonth": 174,
-    "timeYear": 174,
+    "time": 177,
+    "timeDay": 177,
+    "timeWeek": 177,
+    "timeMonth": 177,
+    "timeYear": 177,
     "dailyMinutesDown": {}
   }
 ]
