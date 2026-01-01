@@ -1,4 +1,3 @@
-# Change these first
 owner: generator-labs
 repo: status
 
@@ -10,7 +9,6 @@ sites:
 
 status-website:
   cname: status.generatorlabs.com
-  #baseUrl: /
   logoUrl: https://status.generatorlabs.com/rbl-logo.svg
   name: RBLTracker System Status
   themeUrl: https://status.generatorlabs.com/custom-theme.css
