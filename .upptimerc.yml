@@ -5,7 +5,7 @@ sites:
   - name: RBL Monitoring
     url: https://api.rbltracker.com/1.0/rbl
     icon: https://status.generatorlabs.com/favicon.ico
-  - name: API
+  - name: REST API
     url: https://api.rbltracker.com/1.0/ping
     icon: https://status.generatorlabs.com/favicon.ico
   - name: rbltracker.com Website
