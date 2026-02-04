@@ -8,8 +8,8 @@ sites:
   - name: REST API
     url: https://api.rbltracker.com/1.0/ping
     icon: https://status.generatorlabs.com/favicon.ico
-  - name: rbltracker.com Website
-    url: https://rbltracker.com
+  - name: generatorlabs.com Website
+    url: https://generatorlabs.com
     icon: https://status.generatorlabs.com/favicon.ico
 
 status-website:
