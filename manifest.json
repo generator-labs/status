@@ -1,8 +1,8 @@
 {
   "background_color": "#ffffff",
   "theme_color": "#333333",
-  "name": "RBLTracker",
-  "short_name": "RBLTracker",
+  "name": "Generator Labs",
+  "short_name": "Generator Labs",
   "display": "minimal-ui",
   "start_url": "/",
   "icons": [
