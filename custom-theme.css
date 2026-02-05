@@ -1,5 +1,5 @@
 :root {
-  --body-background-color: #1b1b1d;
+  --body-background-color: rgba(13, 17, 23, 0.95);
   --body-text-color: #f0ffff;
   --card-background-color: #303846;
   --nav-background-color: #242526;
