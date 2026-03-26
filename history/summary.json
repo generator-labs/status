@@ -6,15 +6,15 @@
     "slug": "rbl-monitoring",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "93.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.92%",
-    "time": 371,
-    "timeDay": 7897,
-    "timeWeek": 2146,
-    "timeMonth": 739,
-    "timeYear": 371,
+    "time": 369,
+    "timeDay": 184,
+    "timeWeek": 2129,
+    "timeMonth": 738,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2026-03-24": 92
     }
@@ -26,15 +26,15 @@
     "slug": "rest-api",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "93.68%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.10%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.92%",
-    "time": 199,
-    "timeDay": 7162,
-    "timeWeek": 1818,
+    "time": 197,
+    "timeDay": 4,
+    "timeWeek": 1810,
     "timeMonth": 527,
-    "timeYear": 199,
+    "timeYear": 197,
     "dailyMinutesDown": {
       "2026-03-24": 91
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 294,
-    "timeWeek": 288,
-    "timeMonth": 263,
-    "timeYear": 250,
+    "time": 246,
+    "timeDay": 52,
+    "timeWeek": 231,
+    "timeMonth": 258,
+    "timeYear": 246,
     "dailyMinutesDown": {}
   }
 ]
