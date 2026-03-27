@@ -1,7 +1,7 @@
-url: https://api.rbltracker.com/1.0/rbl
+url: https://api.generatorlabs.com/1.0/rbl
 status: up
 code: 200
-responseTime: 270
-lastUpdated: 2026-03-26T23:29:12.425Z
+responseTime: 147
+lastUpdated: 2026-03-27T18:33:56.139Z
 startTime: 2026-01-02T18:21:05.995Z
 generator: Upptime <https://github.com/upptime/upptime>
