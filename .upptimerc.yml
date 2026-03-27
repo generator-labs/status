@@ -3,10 +3,10 @@ repo: status
 
 sites:
   - name: RBL Monitoring
-    url: https://api.rbltracker.com/1.0/rbl
+    url: https://api.generatorlabs.com/1.0/rbl
     icon: https://status.generatorlabs.com/favicon.ico
   - name: REST API
-    url: https://api.rbltracker.com/1.0/ping
+    url: https://api.generatorlabs.com/1.0/ping
     icon: https://status.generatorlabs.com/favicon.ico
   - name: generatorlabs.com Website
     url: https://generatorlabs.com
