@@ -5,16 +5,16 @@
     "icon": "https://status.generatorlabs.com/favicon.ico",
     "slug": "rbl-monitoring",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.93%",
-    "time": 344,
-    "timeDay": 321,
-    "timeWeek": 217,
-    "timeMonth": 674,
-    "timeYear": 344,
+    "uptimeYear": "99.94%",
+    "time": 342,
+    "timeDay": 146,
+    "timeWeek": 206,
+    "timeMonth": 671,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2026-03-24": 92
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.94%",
-    "time": 171,
-    "timeDay": 74,
-    "timeWeek": 41,
-    "timeMonth": 466,
-    "timeYear": 171,
+    "time": 169,
+    "timeDay": 7,
+    "timeWeek": 35,
+    "timeMonth": 465,
+    "timeYear": 169,
     "dailyMinutesDown": {
       "2026-03-24": 91
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 334,
-    "timeWeek": 245,
-    "timeMonth": 243,
-    "timeYear": 244,
+    "time": 243,
+    "timeDay": 134,
+    "timeWeek": 225,
+    "timeMonth": 238,
+    "timeYear": 243,
     "dailyMinutesDown": {}
   }
 ]
